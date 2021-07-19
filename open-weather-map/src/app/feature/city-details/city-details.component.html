@@ -1,0 +1,11 @@
+<h2 class="mt-3 mb-4">Weather History of <strong>{{cityName}}</strong></h2>
+<p><a routerLink="/cities">&larr; back to cities</a></p>
+
+<article *ngFor="let city of cityInfo">
+    <h5 class="mb-3">{{city.dt | date}}</h5>
+    <p>Temperature: {{city.main.temp}}</p>
+    <p>Humidity: {{city.main.humidity}}</p>
+    <p>Wind Speed: {{city.wind.speed}}</p>
+    <p>Wind Degree: {{city.wind.deg}}</p>
+    <p class="mb-0">Weather: {{city.weather[0].main}}, {{city.weather[0].description}}</p>
+</article>

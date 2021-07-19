@@ -1,0 +1,13 @@
+<h1 class="mb-4">Cities</h1>
+<form [formGroup]="selectedCityForm" (ngSubmit)="submit()">
+    <table width="50%">
+            <tr>
+                <td colspan="2"> <button type="submit" class="btn btn-secondary" [disabled]="!selectedCityForm.valid">Go</button></td>
+            </tr>
+            <tr *ngFor="let city of cityList">
+                <td width="5%" class="text-center"><input type="radio" name="" id="cityName{{city.id}}" 
+                    value="{{city.name}}" formControlName="cityName" (change)="changeCity($event)"></td>
+                <td><label class="pl-4" for="cityName{{city.id}}">{{city.name}}</label></td>
+            </tr>
+    </table>
+</form>

@@ -1,0 +1,373 @@
+[
+    {
+        "id": 30777,
+        "name": "Al Ahad",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 43.64167,
+            "lat": 14.25833
+        }
+    },
+    {
+        "id": 30788,
+        "name": "Ad Dil",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 43.818279,
+            "lat": 14.67199
+        }
+    },
+    {
+        "id": 30789,
+        "name": "Al Jabin",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 43.599041,
+            "lat": 14.70401
+        }
+    },
+    {
+        "id": 2643743,
+        "name": "London",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -0.12574,
+            "lat": 51.50853
+        }
+    },
+    {
+        "id": 32767,
+        "name": "Qarchak",
+        "state": "",
+        "country": "IR",
+        "coord": {
+            "lon": 51.56889,
+            "lat": 35.439442
+        }
+    },
+    {
+        "id": 34703,
+        "name": "Suq Sirwah",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 45.01667,
+            "lat": 15.45417
+        }
+    },
+    {
+        "id": 34717,
+        "name": "Majzar",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 44.775002,
+            "lat": 15.85
+        }
+    },
+    {
+        "id": 34724,
+        "name": "Bidbadah",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 44.700001,
+            "lat": 15.425
+        }
+    },
+    {
+        "id": 34821,
+        "name": "Matwah",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 43.642132,
+            "lat": 15.0676
+        }
+    },
+    {
+        "id": 34827,
+        "name": "Suwayr",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 43.609859,
+            "lat": 16.181801
+        }
+    },
+    {
+        "id": 34846,
+        "name": "Wadarah",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 43.483212,
+            "lat": 15.71073
+        }
+    },
+    {
+        "id": 34862,
+        "name": "Suq Shamar",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 43.368061,
+            "lat": 15.885
+        }
+    },
+    {
+        "id": 34886,
+        "name": "Mustaba",
+        "state": "",
+        "country": "YE",
+        "coord": {
+            "lon": 43.248951,
+            "lat": 16.228161
+        }
+    },
+    
+    {
+        "id": 64412,
+        "name": "Bereeda",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 51.057949,
+            "lat": 11.87037
+        }
+    },
+    {
+        "id": 64435,
+        "name": "Berbera",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 45.01432,
+            "lat": 10.43959
+        }
+    },
+    {
+        "id": 64460,
+        "name": "Beledweyne",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 45.203609,
+            "lat": 4.73583
+        }
+    },
+    {
+        "id": 64480,
+        "name": "Behelidle",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 42.316669,
+            "lat": 2.31667
+        }
+    },
+    {
+        "id": 64536,
+        "name": "Baidoa",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 43.649799,
+            "lat": 3.11383
+        }
+    },
+    {
+        "id": 64538,
+        "name": "Gobolka Bay",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 43.5,
+            "lat": 3.0
+        }
+    },
+    {
+        "id": 64661,
+        "name": "Gobolka Bari",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 50.0,
+            "lat": 10.0
+        }
+    },
+    {
+        "id": 64670,
+        "name": "Bargaal",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 51.077301,
+            "lat": 11.28636
+        }
+    },
+    {
+        "id": 64814,
+        "name": "Bandarbeyla",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 50.812199,
+            "lat": 9.4942
+        }
+    },
+    {
+        "id": 64833,
+        "name": "Gobolka Banaadir",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 45.400002,
+            "lat": 2.11667
+        }
+    },
+    {
+        "id": 65170,
+        "name": "Baardheere",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 42.27644,
+            "lat": 2.34464
+        }
+    },
+    {
+        "id": 65785,
+        "name": "Afgooye",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 45.121201,
+            "lat": 2.1381
+        }
+    },
+    {
+        "id": 65893,
+        "name": "Cadayo",
+        "state": "",
+        "country": "SO",
+        "coord": {
+            "lon": 46.372108,
+            "lat": 4.39024
+        }
+    },
+    {
+        "id": 8260059,
+        "name": "Catterick Garrison",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -1.72232,
+            "lat": 54.37748
+        }
+    },
+    {
+        "id": 8260172,
+        "name": "West Greenwich",
+        "state": "RI",
+        "country": "US",
+        "coord": {
+            "lon": -71.660042,
+            "lat": 41.637001
+        }
+    },
+    {
+        "id": 8260265,
+        "name": "Buutuo",
+        "state": "",
+        "country": "LR",
+        "coord": {
+            "lon": -8.3428,
+            "lat": 6.8275
+        }
+    },
+    {
+        "id": 8260318,
+        "name": "Shanjeev Home",
+        "state": "",
+        "country": "LK",
+        "coord": {
+            "lon": 81.84198,
+            "lat": 7.38216
+        }
+    },
+    {
+        "id": 8260661,
+        "name": "Emar",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 132.156433,
+            "lat": 43.20417
+        }
+    },
+    {
+        "id": 8261129,
+        "name": "Antofagasta",
+        "state": "",
+        "country": "CL",
+        "coord": {
+            "lon": -69.409691,
+            "lat": -24.27389
+        }
+    },
+    {
+        "id": 8261417,
+        "name": "Recoleta",
+        "state": "",
+        "country": "CL",
+        "coord": {
+            "lon": -70.636383,
+            "lat": -33.40881
+        }
+    },
+    {
+        "id": 8277210,
+        "name": "Beldibi",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 30.707411,
+            "lat": 40.592731
+        }
+    },
+    {
+        "id": 10722858.0,
+        "name": "Forsytheganj",
+        "state": "",
+        "country": "BY",
+        "coord": {
+            "lon": 29.733333,
+            "lat": 52.633333
+        }
+    },
+    {
+        "id": 71296900.0,
+        "name": "Голубинка",
+        "state": "",
+        "country": "UA",
+        "coord": {
+            "lon": 33.92,
+            "lat": 44.59
+        }
+    },
+    {
+        "id": 102908597.0,
+        "name": "Gerton",
+        "state": "",
+        "country": "US",
+        "coord": {
+            "lon": -82.348056,
+            "lat": 35.479167
+        }
+    }
+]
