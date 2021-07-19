@@ -1,4 +1,4 @@
-# Angular_Assignment
+# Angular_task
 
 Pending task:
 - Search filter - This is currently in progress, Implemented custom pipes to filter which is not working and need to be debbuged. 
