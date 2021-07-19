@@ -16,7 +16,7 @@ export class CityService {
     private http: HttpClient
   ) { }
 
-  getCityInfo(cityid:any): Observable<City> {
-    return this.http.get<City>(`${this.cityUrl}city?q=${cityid}&appid=${this.apiKey}`);
+  getCityInfo(cityName:any): Observable<City> {
+    return this.http.get<City>(`${this.cityUrl}city?q=${cityName}&appid=${this.apiKey}`);
   }
 }

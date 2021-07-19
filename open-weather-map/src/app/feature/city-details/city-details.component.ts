@@ -3,7 +3,6 @@ import { City } from './../../shared/interfaces/city';
 import { CityService } from './city.service';
 import { SharedService } from './../../shared/services/shared.service';
 import { ActivatedRoute } from '@angular/router';
-import { Router } from "@angular/router";
 
 @Component({
   selector: 'app-city-details',
@@ -13,17 +12,18 @@ import { Router } from "@angular/router";
 export class CityDetailsComponent implements OnInit {
   cityInfo: any;
   cityName: string = '';
+  filterValue: any;
 
   constructor(
     private cityService: CityService,
     private sharedService: SharedService,
-    private route: ActivatedRoute,
-    private router: Router
+    private route: ActivatedRoute
   ) { 
     this.sharedService.loadingEventEmitter.emit(true);
   }
 
   ngOnInit(): void {
+    //get cityName from the query parameter
     this.route.queryParams
       .subscribe(
         params => {
@@ -35,6 +35,7 @@ export class CityDetailsComponent implements OnInit {
       this.getCityDetails();
   }
 
+  //Get city weather history
   getCityDetails(): void {
     const cityVal = this.cityName;
     console.log('cityVal', cityVal);
@@ -49,6 +50,12 @@ export class CityDetailsComponent implements OnInit {
           console.error('err!', err);
         }
       );
+  }
+
+  //Search value
+  onFilterValue(val:string){
+    //console.log("recieved: "+ val);
+    this.filterValue = val;
   }
 
 }

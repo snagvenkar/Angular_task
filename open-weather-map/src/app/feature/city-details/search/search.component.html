@@ -1,0 +1,8 @@
+<table width="100%">
+    <tr>
+        <td><label for="searchData"></label> Search:</td>
+        <td width="40%"><input #searchData id="searchData" (change)="search(searchData.value)" 
+            placeholder="search by date"></td>
+        <td><button (click)="search(searchData.value)">Search</button></td>
+    </tr>
+</table>

@@ -28,7 +28,8 @@ export class CitiesComponent implements OnInit {
   changeCity(e: any) {
     console.log(e.target.value)
   }
-     
+  
+  //On Submit
   submit(){
     console.log(this.selectedCityForm.value);
     this.selectedCityName = this.selectedCityForm.controls.cityName.value;
